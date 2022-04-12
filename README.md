@@ -1,2 +1,2 @@
-# JO_algorithm
-여기는 정올 문제!
+# PG_algorithm
+여기는 프로그래머스 문제!
