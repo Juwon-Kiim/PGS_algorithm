@@ -1,4 +1,4 @@
-# PG_algorithm
+# PGS_algorithm
 여기는 프로그래머스 문제!
 
 1. Programmers lv2 방문길이
